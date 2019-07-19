@@ -1,0 +1,1 @@
+E:\VSO_YS\Curiosity\Coinland\Coinland.App.Console\Coinland.App.Console\bin\Debug\Newtonsoft.Json.dll
