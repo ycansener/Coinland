@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinland.App.Console", "Coinland.App.Console\Coinland.App.Console.csproj", "{4486EA81-E8DF-467E-97B7-2D1072FAA978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinland.Core.Domain", "Coinland.Core.Domain\Coinland.Core.Domain.csproj", "{DD1AA534-F92C-4076-B217-DBD115E1BB08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinland.Core.Infrastructure", "Coinland.Core.Infrastructure\Coinland.Core.Infrastructure.csproj", "{7C6A0D53-B062-4C35-8393-AFCAE595F7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coinland.Core.WebAPI", "Coinland.Core.WebAPI\Coinland.Core.WebAPI.csproj", "{01C0E43E-1320-4FD8-949C-2BFF2C064BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4486EA81-E8DF-467E-97B7-2D1072FAA978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4486EA81-E8DF-467E-97B7-2D1072FAA978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4486EA81-E8DF-467E-97B7-2D1072FAA978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4486EA81-E8DF-467E-97B7-2D1072FAA978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1AA534-F92C-4076-B217-DBD115E1BB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1AA534-F92C-4076-B217-DBD115E1BB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1AA534-F92C-4076-B217-DBD115E1BB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1AA534-F92C-4076-B217-DBD115E1BB08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6A0D53-B062-4C35-8393-AFCAE595F7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6A0D53-B062-4C35-8393-AFCAE595F7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6A0D53-B062-4C35-8393-AFCAE595F7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6A0D53-B062-4C35-8393-AFCAE595F7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C0E43E-1320-4FD8-949C-2BFF2C064BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C0E43E-1320-4FD8-949C-2BFF2C064BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C0E43E-1320-4FD8-949C-2BFF2C064BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C0E43E-1320-4FD8-949C-2BFF2C064BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC36AE7B-9856-4204-B6A6-599C9C90CAAA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ycansener.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Coinland.App.Console\\Coinland.App.Console.csproj
+		SccProjectName1 = Coinland.App.Console
+		SccLocalPath1 = Coinland.App.Console
+		SccProjectUniqueName2 = Coinland.Core.Domain\\Coinland.Core.Domain.csproj
+		SccProjectName2 = Coinland.Core.Domain
+		SccLocalPath2 = Coinland.Core.Domain
+		SccProjectUniqueName3 = Coinland.Core.Infrastructure\\Coinland.Core.Infrastructure.csproj
+		SccProjectName3 = Coinland.Core.Infrastructure
+		SccLocalPath3 = Coinland.Core.Infrastructure
+		SccProjectUniqueName4 = Coinland.Core.WebAPI\\Coinland.Core.WebAPI.csproj
+		SccProjectName4 = Coinland.Core.WebAPI
+		SccLocalPath4 = Coinland.Core.WebAPI
+	EndGlobalSection
+EndGlobal
