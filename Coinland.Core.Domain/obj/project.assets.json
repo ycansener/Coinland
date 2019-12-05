@@ -756,23 +756,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ycansener\\.nuget\\packages\\": {},
+    "C:\\Users\\y.sener\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSO_YS\\Curiosity\\Coinland\\Coinland.App.Console\\Coinland.Core.Domain\\Coinland.Core.Domain.csproj",
+      "projectUniqueName": "C:\\playground\\Coinland\\Coinland.Core.Domain\\Coinland.Core.Domain.csproj",
       "projectName": "Coinland.Core.Domain",
-      "projectPath": "E:\\VSO_YS\\Curiosity\\Coinland\\Coinland.App.Console\\Coinland.Core.Domain\\Coinland.Core.Domain.csproj",
-      "packagesPath": "C:\\Users\\ycansener\\.nuget\\packages\\",
-      "outputPath": "E:\\VSO_YS\\Curiosity\\Coinland\\Coinland.App.Console\\Coinland.Core.Domain\\obj\\",
+      "projectPath": "C:\\playground\\Coinland\\Coinland.Core.Domain\\Coinland.Core.Domain.csproj",
+      "packagesPath": "C:\\Users\\y.sener\\.nuget\\packages\\",
+      "outputPath": "C:\\playground\\Coinland\\Coinland.Core.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ycansener\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\y.sener\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -780,7 +780,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

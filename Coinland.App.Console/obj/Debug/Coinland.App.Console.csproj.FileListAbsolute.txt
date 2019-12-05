@@ -1,1 +1,14 @@
 E:\VSO_YS\Curiosity\Coinland\Coinland.App.Console\Coinland.App.Console\bin\Debug\Newtonsoft.Json.dll
+C:\playground\Coinland\Coinland.App.Console\bin\Debug\Coinland.App.Console.exe.config
+C:\playground\Coinland\Coinland.App.Console\bin\Debug\Coinland.App.Console.exe
+C:\playground\Coinland\Coinland.App.Console\bin\Debug\Coinland.App.Console.pdb
+C:\playground\Coinland\Coinland.App.Console\bin\Debug\Newtonsoft.Json.dll
+C:\playground\Coinland\Coinland.App.Console\bin\Debug\Newtonsoft.Json.xml
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.Form1.resources
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.FormProperties.resources
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.Properties.Resources.resources
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.csproj.GenerateResource.cache
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.csproj.CoreCompileInputs.cache
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.csproj.CopyComplete
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.exe
+C:\playground\Coinland\Coinland.App.Console\obj\Debug\Coinland.App.Console.pdb
